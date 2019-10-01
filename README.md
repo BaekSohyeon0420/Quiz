@@ -1,8 +1,7 @@
 ## Quiz
 
-
-###git branch -d solution
-###git push origin --delete solution
+* git branch -d solution
+* git push origin --delete solution
 
 
 ```
